@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[TB_AD] (
+    [CD_ID]         INT           IDENTITY (1, 1) NOT NULL,
+    [NR_PRONTUARIO] INT           NOT NULL,
+    [NM_ALUNO]      VARCHAR (100) NOT NULL,
+    [NR_RA]         VARCHAR (20)  NOT NULL,
+    [NR_CAIXA]      INT           NOT NULL,
+    CONSTRAINT [PK_CD_ID] PRIMARY KEY CLUSTERED ([CD_ID] ASC)
+);
+
+GO
+CREATE UNIQUE NONCLUSTERED INDEX [IX_RA]
+    ON [dbo].[TB_AD]([NR_RA] ASC);

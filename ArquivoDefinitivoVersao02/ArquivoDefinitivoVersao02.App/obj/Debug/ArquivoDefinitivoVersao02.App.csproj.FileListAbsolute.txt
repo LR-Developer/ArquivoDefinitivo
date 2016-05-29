@@ -1,0 +1,11 @@
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivoVersao02\ArquivoDefinitivoVersao02.App\bin\Debug\ArquivoDefinitivoVersao02.App.exe.config
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivoVersao02\ArquivoDefinitivoVersao02.App\bin\Debug\ArquivoDefinitivoVersao02.App.exe
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivoVersao02\ArquivoDefinitivoVersao02.App\bin\Debug\ArquivoDefinitivoVersao02.App.pdb
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivoVersao02\ArquivoDefinitivoVersao02.App\obj\Debug\ArquivoDefinitivoVersao02.App.csprojResolveAssemblyReference.cache
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivoVersao02\ArquivoDefinitivoVersao02.App\obj\Debug\ArquivoDefinitivoVersao02.App.LoginScreen.resources
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivoVersao02\ArquivoDefinitivoVersao02.App\obj\Debug\ArquivoDefinitivoVersao02.App.MainScreen.resources
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivoVersao02\ArquivoDefinitivoVersao02.App\obj\Debug\ArquivoDefinitivoVersao02.App.Properties.Resources.resources
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivoVersao02\ArquivoDefinitivoVersao02.App\obj\Debug\ArquivoDefinitivoVersao02.App.SearchScreen.resources
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivoVersao02\ArquivoDefinitivoVersao02.App\obj\Debug\ArquivoDefinitivoVersao02.App.csproj.GenerateResource.Cache
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivoVersao02\ArquivoDefinitivoVersao02.App\obj\Debug\ArquivoDefinitivoVersao02.App.exe
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivoVersao02\ArquivoDefinitivoVersao02.App\obj\Debug\ArquivoDefinitivoVersao02.App.pdb

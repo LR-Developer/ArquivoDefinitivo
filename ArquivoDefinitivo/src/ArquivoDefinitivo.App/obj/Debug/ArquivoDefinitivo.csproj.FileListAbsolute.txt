@@ -1,0 +1,12 @@
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\bin\Debug\ArquivoDefinitivoScreens.exe.config
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\bin\Debug\ArquivoDefinitivoScreens.exe
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\bin\Debug\ArquivoDefinitivoScreens.pdb
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\obj\Debug\ArquivoDefinitivoScreens.EditScreen.resources
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\obj\Debug\ArquivoDefinitivoScreens.InsertScreen.resources
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\obj\Debug\ArquivoDefinitivoScreens.LoginScreen.resources
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\obj\Debug\ArquivoDefinitivoScreens.NewUserScreen.resources
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\obj\Debug\ArquivoDefinitivoScreens.MainScreen.resources
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\obj\Debug\ArquivoDefinitivoScreens.UpdateScreen.resources
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\obj\Debug\ArquivoDefinitivo.csproj.GenerateResource.Cache
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\obj\Debug\ArquivoDefinitivoScreens.exe
+C:\Users\LuísCarlos\Source\Workspaces\AryGomes\trunk\ArquivoDefinitivo\src\ArquivoDefinitivo.App\obj\Debug\ArquivoDefinitivoScreens.pdb
